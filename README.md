@@ -7,7 +7,7 @@ Teach.js [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=
 
 A set of ready-to-use Machine Learning extracted functions from [tensorflow.js]([https://www.tensorflow.org/js](https://www.tensorflow.org/js)). Made teaching your website to react based on trainning by Webcam be possible.
 
-## Deomo
+## Demo
 https://teach-demo.firebaseapp.com/
 
 ## ⚠ This package does not support NPM install yet
