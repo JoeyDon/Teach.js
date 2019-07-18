@@ -2,7 +2,7 @@
 
 Teach.js [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
 ===================================
-=
+
 [![Dependency Status](https://img.shields.io/david/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5)
 
 A set of ready-to-use Machine Learning extracted functions from [tensorflow.js]([https://www.tensorflow.org/js](https://www.tensorflow.org/js)). Made teaching your website to react based on trainning by Webcam be possible.
