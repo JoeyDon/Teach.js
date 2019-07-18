@@ -2,8 +2,7 @@
 
 Teach.js [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
 ===================================
-
-[![Build Status](https://travis-ci.org/ckeditor/ckeditor5.svg?branch=master)](https://travis-ci.org/ckeditor/ckeditor5)
+=
 [![Dependency Status](https://img.shields.io/david/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5)
 
 
