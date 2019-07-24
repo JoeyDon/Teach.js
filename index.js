@@ -34,7 +34,7 @@ export default class Teach {
 
     // Reads an image from the webcam and associates it with a specific class
     // index.
-    addExample = classId => {
+    addExample(classId){
         // Get the intermediate activation of MobileNet 'conv_preds' and pass that
         // to the KNN classifier.
         const activation = this.net.infer(this.webcamElement, 'conv_preds');
