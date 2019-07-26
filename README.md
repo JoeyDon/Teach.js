@@ -28,9 +28,18 @@ You will have to manually install the 3 dependencies.
 ## Quick start
 
 ### Install this library
+1. `npm install @joeycode/teach`
+2.
+`var instance = new Teach('webcam',this.fnGoUp, this.fnGoDown)`
 
-Teach.js assembles a set of ready-to-use Machine Learning functions. 
+`instance.init()`
 
+`fnGoUp(){
+      window.scrollBy(0, -this.scrollSpeed);
+ }`
+`fnGoDown(){
+      window.scrollBy(0, this.scrollSpeed);
+  }`
 
 #### Example
 
