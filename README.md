@@ -10,12 +10,8 @@ A set of ready-to-use Machine Learning extracted functions from [tensorflow.js](
 ## Demo
 https://teach-demo.firebaseapp.com/
 
-## ⚠ This package does not support NPM install yet
+## ⚠ This package is still in early stage
 
-Teach.js is not bundled yet by Webpack as in the early stage, which you can not [install from npm](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/installation.html#npm).
-
-You will have to manually install the 3 dependencies. 
-`npm install --save @tensorflow-models/knn-classifier @tensorflow-models/mobilenet @tensorflow/tfjs`
 
 ## Table of contents
 
